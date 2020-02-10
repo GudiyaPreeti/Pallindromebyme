@@ -1,0 +1,4 @@
+# Pallindromebyme
+Steps
+enter a no
+check whether both sides result the same no

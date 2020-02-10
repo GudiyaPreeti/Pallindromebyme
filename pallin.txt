@@ -1,12 +1,15 @@
 import java.io.*;
+//creating a class
 public class pallindrome
 {
 public static void main(String args[])throws IOException
 {
 int i,c=0,r;
+//accepting input
 BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 System.out.println("Enter a number:");
 int n=Integer.parseInt(br.readLine());
+//checking
 int temp=n;
 while(n>0)
 {
